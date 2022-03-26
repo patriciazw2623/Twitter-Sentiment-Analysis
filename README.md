@@ -1,5 +1,7 @@
 # Twitter Sentiment Analysis
-A natural language processing project based on python. 
+A natural language processing project based on python. The NLP model is used in a Web App.
+
+The "app.py" file creates a web app where users can enter a hashtag and choose to fetch the 5 latest tweets, draw a WordCloud or conduct sentiment analysis. The web app is built using Streamlit. To deploy locally, download the file and run  `streamlit run app.py`
 
 The jupyter notebook file demonstrates a demo using hashtag "jeno", name of a member of the South Korean boy group NCT and its fixed sub-unit NCT Dream. The two images are the histogram and wordcloud created with the code.
 
